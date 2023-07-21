@@ -1,9 +1,9 @@
 # Mobile-App-Automation-Calculator-Appium
-In this repository I have automated the Google LLC Calculator App and finally generated a allure report for the test results using Appium, Java, Selenium, TestNG and Allure Report.
+In this repository, I have automated the Google LLC Calculator App and finally generated an allure report for the test results using Appium, Java, Selenium, TestNG, and Allure Report.
 
-## Scenario
-Automate calculator app and do following tests:
-1. Summation (321+123=198)
+## Assigned Work Scenario
+Automate the calculator app and do the following tests:
+1. Summation (321+123=444)
 2. Subtraction (512-314=198)
 3. Multiplication (715*65=46475)
 4. Division (1560/30=52)
@@ -15,23 +15,23 @@ Automate calculator app and do following tests:
 - TestNG Framework
 - Appium Server
 - Gradle Build System
-- Intellij IDE 
+- IntelliJ IDE 
 - Allure Report Generator
 
 
 ## How to run this project
 - clone this project
-- open project and load the build.gradle
-- hit the following command into the root directory in terminal:
+- open the project and load the build.gradle
+- Hit the following command into the root directory in the terminal:
   - gradle clean test
-- For generating Report in Allure hit
+- For generating a Report in Allure hit
   - allure generate allure-results --clean -output
-  - allure serve allure-results        
+  - allure serves allure-results        
  
 
 ## Prerequisite
 - JDK 8 or higher
-- Configure GRADLE_HOME and set allure path
+- Configure GRADLE_HOME and set the allure path
 - Start Appium server
 
 ## Project Demonstration
