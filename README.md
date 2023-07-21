@@ -1,5 +1,5 @@
 # Mobile-App-Automation-Calculator-Appium
-In this repository, I have automated the Google LLC Calculator Android App and finally generated an allure report for the test results using Appium, Java, Selenium, TestNG, and Allure Report.
+In this repository, I have automated the Google LLC Calculator Android App and finally generated an allure report for the test suite results using Appium, Java, Selenium, TestNG, and Allure Report.
 
 ## Assigned Work Scenario
 Automate the calculator app and do the following tests:
